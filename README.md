@@ -1,4 +1,4 @@
 #Signed AppX
 
-This is a temporary solution that provides developers on Mac a signed Appx that they can use to push their hosted web app onto their Raspberry Pi 2.
+This is a temporary solution to allow developers on Mac to push a hosted web app onto a Raspberry Pi 2 provisioned with Windows IoT Core.
 
